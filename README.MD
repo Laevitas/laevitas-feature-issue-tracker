@@ -1,15 +1,15 @@
 
-## Laevitas Issue Reporting Guidelines
+## Laevitas Feature/Issue Reporting Guidelines
 
-### Welcome to the Issue Tracker!
+### Welcome to the Feature/Issue Tracker!
 
 Thank you for your interest in contributing to our projects. Before you create a new issue, please take a moment to read through these guidelines to ensure effective communication and streamline issue management.
 
-This issue tracker is designed to streamline bug reporting and issue management for the following projects:
+This feature/issue tracker is designed to streamline bug reporting and issue management for the following projects:
 1.  **API**: The API gateway serves clients with REST API endpoints.
 2.  **Dashboard**: The web-based dashboard.
 
-### Issue Title
+### Feature/Issue Title
 
 When creating an issue, the title should be concise, descriptive, and specific, including the context of the project. A good issue title helps others understand the problem at a glance and helps with issue categorization. Here are some tips for writing an effective issue title:
 
@@ -19,7 +19,7 @@ When creating an issue, the title should be concise, descriptive, and specific, 
     
 3.  **Use Keywords**: Include keywords that describe the issue, such as "bug," "enhancement," "feature request," etc.
     
-4.  **Summarize the Issue**: Keep the title short while still capturing the essence of the problem or request.
+4.  **Summarize the Feature/Issue**: Keep the title short while still capturing the essence of the problem or request.
     
 
 **Example Titles:**

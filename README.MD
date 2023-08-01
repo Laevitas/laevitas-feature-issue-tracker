@@ -5,7 +5,7 @@
 
 Thank you for your interest in contributing to our projects. Before you create a new issue, please take a moment to read through these guidelines to ensure effective communication and streamline issue management.
 
-This feature/issue tracker is designed to streamline bug reporting and issue management for the following projects:
+This feature/issue tracker is designed to streamline feature request, bug reporting and issue management for the following projects:
 1.  **API**: The API gateway serves clients with REST API endpoints.
 2.  **Dashboard**: The web-based dashboard.
 
